@@ -821,3 +821,6 @@ repositories = [
   'github.com/ZupIT/ritchie-cli',
   'github.com/ZupIT/ritchie-formulas'
 ]
+
+[[repositories]]
+name = "prowler-cloud/prowler"
